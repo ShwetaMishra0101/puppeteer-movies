@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShwetaMishra0101/puppeteer-movies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShwetaMishra0101/puppeteer-movies/issues"
+  },
+  "homepage": "https://github.com/ShwetaMishra0101/puppeteer-movies#readme"
+}
