@@ -2,6 +2,9 @@ const express = require('express');
 const puppeteer = require('puppeteer');
 
 const app = express();
+app.get('/',(req,res)=>{
+    res.send("Welcome !!")
+})
 
 app.get('/top-movies', async (req, res) => {
   try {
